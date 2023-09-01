@@ -44,8 +44,5 @@ To contribute:
 3. Make your changes and improvements.
 4. Submit a pull request, detailing the changes you've made and their significance.
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE), allowing you to freely use and modify the content for personal or commercial purposes.
 
 Happy exploring and analyzing data using PySpark and gaining insights into the world of data warehousing! If you have any questions or feedback, feel free to reach out via the repository's Issues section.
